@@ -42,7 +42,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/preset-flow@npm:^7.22.5":
+
   version: 7.22.5
   resolution: "@babel/preset-flow@npm:7.22.5"
   dependencies:
