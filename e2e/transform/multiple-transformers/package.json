@@ -14,11 +14,20 @@
     ]
   },
   "dependencies": {
+ snyk-upgrade-b32464e83026137e82786f0a502ceb33
     "@babel/core": "^7.22.15",
     "@babel/preset-env": "^7.22.15",
     "@babel/preset-react": "^7.22.15",
     "react": "17.0.2",
     "react-dom": "^17.0.1",
     "react-test-renderer": "17.0.2"
+
+    "@babel/core": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "@babel/preset-react": "^7.0.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-test-renderer": "18.2.0"
+
   }
 }
