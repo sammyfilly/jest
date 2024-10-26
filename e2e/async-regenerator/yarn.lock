@@ -167,6 +167,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@babel/helper-plugin-utils@npm:^7.25.9":
+  version: 7.25.9
+  resolution: "@babel/helper-plugin-utils@npm:7.25.9"
+  checksum: e19ec8acf0b696756e6d84531f532c5fe508dce57aa68c75572a77798bd04587a844a9a6c8ea7d62d673e21fdc174d091c9097fb29aea1c1b49f9c6eaa80f022
+  languageName: node
+  linkType: hard
+
 "@babel/helper-simple-access@npm:^7.22.5":
   version: 7.22.5
   resolution: "@babel/helper-simple-access@npm:7.22.5"
@@ -251,15 +258,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/plugin-transform-regenerator@npm:^7.22.10":
-  version: 7.22.10
-  resolution: "@babel/plugin-transform-regenerator@npm:7.22.10"
+"@babel/plugin-transform-regenerator@npm:^7.25.7":
+  version: 7.25.9
+  resolution: "@babel/plugin-transform-regenerator@npm:7.25.9"
   dependencies:
-    "@babel/helper-plugin-utils": ^7.22.5
+    "@babel/helper-plugin-utils": ^7.25.9
     regenerator-transform: ^0.15.2
   peerDependencies:
     "@babel/core": ^7.0.0-0
-  checksum: e13678d62d6fa96f11cb8b863f00e8693491e7adc88bfca3f2820f80cbac8336e7dec3a596eee6a1c4663b7ececc3564f2cd7fb44ed6d4ce84ac2bb7f39ecc6e
+  checksum: 1c09e8087b476c5967282c9790fb8710e065eda77c60f6cb5da541edd59ded9d003d96f8ef640928faab4a0b35bf997673499a194973da4f0c97f0935807a482
   languageName: node
   linkType: hard
 
@@ -737,7 +744,7 @@ __metadata:
   resolution: "root-workspace-0b6124@workspace:."
   dependencies:
     "@babel/core": ^7.22.15
-    "@babel/plugin-transform-regenerator": ^7.22.10
+    "@babel/plugin-transform-regenerator": ^7.25.7
     "@babel/plugin-transform-runtime": ^7.22.15
     "@babel/polyfill": ^7.2.5
   languageName: unknown
